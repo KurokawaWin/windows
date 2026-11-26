@@ -1095,11 +1095,6 @@ getLink1() {
       sum="dfd9890881b7e832a927c38310fb415b7ea62ac5a896671f2ce2a111998f0df8"
       url="server/2008r2/en_windows_server_2008_r2_with_sp1_x64_dvd_617601-018.iso"
       ;;
-    "win7x64" | "win7x64-ultimate" )
-      size=3320836096
-      sum="0b738b55a5ea388ad016535a5c8234daf2e5715a0638488ddd8a228a836055a1"
-      url="7/en_windows_7_with_sp1_x64.iso"
-      ;;
     "win7x64-enterprise" )
       size=3182604288
       sum="ee69f3e9b86ff973f632db8e01700c5724ef78420b175d25bae6ead90f6805a7"
@@ -1197,11 +1192,6 @@ getLink2() {
       size=3166584832
       sum="dfd9890881b7e832a927c38310fb415b7ea62ac5a896671f2ce2a111998f0df8"
       url="Windows%20Server%202008%20R2/en_windows_server_2008_r2_with_sp1_x64_dvd_617601.iso"
-      ;;
-    "win7x64" | "win7x64-ultimate" )
-      size=3320903680
-      sum="36f4fa2416d0982697ab106e3a72d2e120dbcdb6cc54fd3906d06120d0653808"
-      url="Windows%207/en_windows_7_ultimate_with_sp1_x64_dvd_u_677332.iso"
       ;;
     "win7x64-enterprise" )
       size=3182604288
@@ -1404,11 +1394,6 @@ getLink4() {
       size=3166584832
       sum="dfd9890881b7e832a927c38310fb415b7ea62ac5a896671f2ce2a111998f0df8"
       url="en_windows_server_2008_r2_with_sp1_x64_dvd_617601-018.iso"
-      ;;
-    "win7x64" | "win7x64-ultimate" )
-      size=3320903680
-      sum="36f4fa2416d0982697ab106e3a72d2e120dbcdb6cc54fd3906d06120d0653808"
-      url="en_windows_7_ultimate_with_sp1_x64_dvd_u_677332.iso"
       ;;
     "win7x64-enterprise" )
       size=3182604288
