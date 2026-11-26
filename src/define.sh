@@ -1572,9 +1572,7 @@ getLink6() {
       url="en_windows_server_2008_r2_with_sp1_x64_dvd_617601_202405/en_windows_server_2008_r2_with_sp1_x64_dvd_617601.iso"
       ;;
     "win7x64" | "win7x64-ultimate" )
-      size=3320903680
-      sum="36f4fa2416d0982697ab106e3a72d2e120dbcdb6cc54fd3906d06120d0653808"
-      url="win7-ult-sp1-english/Win7_Ult_SP1_English_x64.iso"
+      url="aviro4750refresh/4750.avirorefresh_main.260613-1957_Pre-M1.iso"
       ;;
     "win7x64-enterprise" )
       size=3182604288
